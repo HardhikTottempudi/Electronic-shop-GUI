@@ -1,1 +1,1 @@
-# Electronic-shop-GUI
+# GUI(Python) mySQL simpleTable Creation app
